@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-size: 35px;
+}
+
+ul {
+  background-color: #616A6B;
+}
+
+h1 {
+  color: #17202A;
+}
+
+h2 {
+  text-align: center;
+}
+
+#chicken-content{
+  margin: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #E59866;
+}
+
+#description {
+  text-align: left;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
